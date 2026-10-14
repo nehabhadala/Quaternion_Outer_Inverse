@@ -1,0 +1,1 @@
+# Quaternion_Outer_Inverse
