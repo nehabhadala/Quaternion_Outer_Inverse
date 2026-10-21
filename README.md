@@ -70,6 +70,6 @@ Place these RGB images in `Input_images/` and run the matching scripts:
 
 ## Lorenz examples and attribution
 
-`lorentz_final` and `lorentz_final9` fit noisy Lorenz-system data using seed 222 and an explicit tolerance of `1e-10`. 
+`lorentz_final`  fit noisy Lorenz-system data using seed 321. 
 
 
