@@ -5,7 +5,7 @@ MATLAB code for the accompanying paper on quaternion outer inverses and Moore–
 ## Requirements
 
 - MATLAB; reported experiments used R2024b.
-- [Quaternion Toolbox for MATLAB (QTFM)](https://qtfm.sourceforge.io/), installed separately. Both quaternion and complex implementations require QTFM.
+- [Quaternion Toolbox for MATLAB (QTFM)](https://qtfm.sourceforge.io/), installed separately. 
 - Image Processing Toolbox for image restoration.
 
 Keep all supplied `.m` files together, set their folder as MATLAB's Current Folder, and ensure QTFM is on the path.
