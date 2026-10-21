@@ -1,6 +1,6 @@
 # Quaternion Generalized Inverses in MATLAB
 
-MATLAB code for the accompanying paper on quaternion outer inverses and Moore–Penrose inverses. Implementations use direct QTFM arithmetic and complex representations, with numerical comparisons, color image restoration, and Lorenz-system examples.
+MATLAB code for the accompanying paper on quaternion outer inverses with prescribed subspace properties. Implementations use direct QTFM arithmetic and complex representations, with numerical comparisons, color image restoration, and Lorenz-system examples.
 
 ## Requirements
 
